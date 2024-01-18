@@ -1,4 +1,4 @@
-# Todo List App (Website Live - [https://todolist-akhtarshadab.onrender.com](https://todolist-akhtarshadab.onrender.com))
+# Todo List App (Website Live - )
 
 This is a simple web application for managing todo lists. You can use this app to create multiple todo lists, add items to the lists, mark items as completed, and delete items from the lists. The app is built using Node.js, Express.js, and MongoDB.
 
@@ -84,4 +84,4 @@ If you'd like to contribute to this project, you can follow these steps:
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [sakn501@gmail.com](mailto:sakn501@gmail.com).
+If you have any questions or suggestions, please feel free to contact me at [mdshahreyarhannan@gmail.com](mailto:mdshahreyarhannan@gmail.com).
